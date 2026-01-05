@@ -1,0 +1,23 @@
+# Archivos generados por el script setup.sh
+*.conf
+*.log
+*.bak
+data/
+deploy/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de editores y entornos virtuales
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs de npm o librerias (si aplicara en el futuro)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
